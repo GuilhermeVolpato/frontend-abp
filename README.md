@@ -7,7 +7,7 @@
 
 -Luiz Otávio Minalezi Vieira
 
--Vinícios Pedroso Milanez
+-Vinícius Pedroso Milanez
 
 -Arthur De Mello Vieira
 
