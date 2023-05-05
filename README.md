@@ -14,16 +14,25 @@
 ## Sobre o Trabalho:
 
 #### Descrição
-entregue em um único parágrafo o que aquele produto irá fazer
+Sistema de gestão de pedidos para lanchonetes e redes de fastfoods para uso dos funcionários, com criação de pedidos, visualização de pedidos por ordem de chegada na cozinha e com painel mostrando pedidos em preparo e pedidos prontos 
 # 
 #### Objetivo
-qual problema/objetivo a solução de vocês busca resolver/ajudar
+Facilitar a gestão de pedidos para lanchonetes e redes de fastfoods, evitando atrasos no preparo,evitando perda de pedidos acarretando a não preparação deles, e transparencia com o cliente mostrando em que etapa se pedido está.
 #
 #### Estrutura do Projeto 
-pode ser uma lista de principais telas e um breve descritivo do que irá ter em cada uma OU fluxograma visual conectando telas e links em uma estrutura gráfica
+Tela de login, Tela de criação de pedido, Tela de Lista da pedido para a cozinha, tela de status do pedido.
+
+Seguindo mais ou menos esse diagrama
+
+<img width="638" alt="Captura de Tela 2023-05-04 às 20 58 08" src="https://user-images.githubusercontent.com/51752403/236355114-026ad73e-21e1-468f-aace-34147d76fbd0.png">
+
 #
 #### Público alvo 
-quem é o interessado em usar o APP de vcs e porque eles usariam ~ qual a real necessidade deles para serem seus "clientes
+Lanchonetes e redes de fastfoods. 
+
+Um benefício é que o sistema melhora a eficiência do negócio, dando aos funcionarios a possibilidade de  registrar os pedidos dos clientes de maneira rápida e eficiente, sem precisar anotar em um papel ou em um bloco de notas. Isso pode economizar tempo, ajudar a evitar erros de anotação ou perda do bloco de notas e cumprir prazo de preparo.
+
+Outro benefício é que o sistema ajuda a garantir que os pedidos dos clientes sejam registrados com precisão, evitando erros de comunicação entre os clientes e a equipe da lanchonete. Isso pode ajudar a reduzir o número de reclamações dos clientes e melhorar a satisfação do cliente.
 #
 #### Tecnologias, bibliotecas e frameworks 
 React.js, TypeScript, Styled-Components (estilização), React hook form (formulários), Context Api (compartilhar dados globais por todas as telas), Axios (conexão com Api(caso precise)).
