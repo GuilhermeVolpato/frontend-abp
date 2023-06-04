@@ -37,4 +37,9 @@ Outro benefício é que o sistema ajuda a garantir que os pedidos dos clientes s
 #### Tecnologias, bibliotecas e frameworks 
 React.js, TypeScript, TailWindCss (estilização), React hook form (formulários), Context Api (compartilhar dados globais por todas as telas), Axios (conexão com Api(caso precise)).
 
+#
+#### Executar projeto em casa
+npm install
+
+npm run dev
 
