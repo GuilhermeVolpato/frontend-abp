@@ -35,6 +35,6 @@ Um benefício é que o sistema melhora a eficiência do negócio, dando aos func
 Outro benefício é que o sistema ajuda a garantir que os pedidos dos clientes sejam registrados com precisão, evitando erros de comunicação entre os clientes e a equipe da lanchonete. Isso pode ajudar a reduzir o número de reclamações dos clientes e melhorar a satisfação do cliente.
 #
 #### Tecnologias, bibliotecas e frameworks 
-React.js, TypeScript, Styled-Components (estilização), React hook form (formulários), Context Api (compartilhar dados globais por todas as telas), Axios (conexão com Api(caso precise)).
+React.js, TypeScript, TailWindCss (estilização), React hook form (formulários), Context Api (compartilhar dados globais por todas as telas), Axios (conexão com Api(caso precise)).
 
 
