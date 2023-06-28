@@ -5,7 +5,7 @@
 
 -Guilherme Marques Silveira
 
--Luiz Otávio Minalezi Vieira
+-Luiz Otávio Milanezi Vieira
 
 -Vinícius Pedroso Milanez
 
